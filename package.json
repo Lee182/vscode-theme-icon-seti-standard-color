@@ -1,0 +1,15 @@
+{
+  "name": "vscode-theme-icon-seti-standard-color",
+  "version": "1.0.0",
+  "description": "This script generates an extension icon theme for vscode from vscode source extension changing all icons to the same color.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Lee",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "MIT"
+}
